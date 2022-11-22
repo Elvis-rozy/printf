@@ -1,6 +1,7 @@
 #include "main.h"
 /**
  * handle_write_char - Prints a string
+ * to the stdout
  * @c: char types.
  * @buffer: Buffer array to handle print
  * @flags:  Calculates active flags.
